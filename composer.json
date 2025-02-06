@@ -14,11 +14,11 @@
     },
 
     "extra": {
-      "laravel": {
-        "providers": [
-          "YourNamespace\\BugTracker\\MyPackageServiceProvider"
-        ]
-      }
+        "laravel": {
+            "providers": [
+                "Behzad\\BugTracker\\MyPackageServiceProvider"
+            ]
+        }
     },
     "minimum-stability": "stable",
     "prefer-stable": true
