@@ -1,5 +1,5 @@
 {
-    "name": "yourname/bug-tracker",
+    "name": "behzad/bug-tracker",
     "description": "A bug-tracking and logging package for Laravel projects",
     "type": "library",
     "license": "MIT",
