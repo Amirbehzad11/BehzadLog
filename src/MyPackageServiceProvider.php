@@ -10,6 +10,7 @@ class MyPackageServiceProvider extends ServiceProvider
     {
         $this->mergeConfigFrom(__DIR__ . '/../config/mypackage.php', 'mypackage');
     }
+    
 
     public function boot()
     {
