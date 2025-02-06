@@ -40,6 +40,10 @@ class ComposerStaticInita2c6359478959b71bf5caa5f50ba6ec6
         array (
             'voku\\' => 5,
         ),
+        'Y' => 
+        array (
+            'YourNamespace\\BugTracker\\' => 25,
+        ),
         'W' => 
         array (
             'Webmozart\\Assert\\' => 17,
@@ -97,7 +101,6 @@ class ComposerStaticInita2c6359478959b71bf5caa5f50ba6ec6
         ),
         'M' => 
         array (
-            'MyPackage\\' => 10,
             'Monolog\\' => 8,
         ),
         'L' => 
@@ -155,6 +158,10 @@ class ComposerStaticInita2c6359478959b71bf5caa5f50ba6ec6
         'voku\\' => 
         array (
             0 => __DIR__ . '/..' . '/voku/portable-ascii/src/voku',
+        ),
+        'YourNamespace\\BugTracker\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src',
         ),
         'Webmozart\\Assert\\' => 
         array (
@@ -316,10 +323,6 @@ class ComposerStaticInita2c6359478959b71bf5caa5f50ba6ec6
         'PhpOption\\' => 
         array (
             0 => __DIR__ . '/..' . '/phpoption/phpoption/src/PhpOption',
-        ),
-        'MyPackage\\' => 
-        array (
-            0 => __DIR__ . '/../..' . '/src',
         ),
         'Monolog\\' => 
         array (
