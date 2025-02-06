@@ -1,0 +1,25 @@
+{
+    "name": "yourname/bug-tracker",
+    "description": "A bug-tracking and logging package for Laravel projects",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+      "psr-4": {
+        "YourNamespace\\BugTracker\\": "src/"
+      }
+    },
+    "require": {
+      "php": ">=8.0",
+      "illuminate/support": "^9.0"
+    },
+    "extra": {
+      "laravel": {
+        "providers": [
+          "YourNamespace\\BugTracker\\MyPackageServiceProvider"
+        ]
+      }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+  }
+  
